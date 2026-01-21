@@ -1,13 +1,13 @@
-# Evaluación Final – Módulo 2: SQL
+## Evaluación Final – Módulo 2: SQL
 
 Este repositorio contiene la resolución de la evaluación final del **Módulo 2 de SQL**, en la que se ponen en práctica los conocimientos adquiridos sobre bases de datos relacionales y consultas SQL.
 
-🧠 **Descripción del proyecto**  
+# 🧠 **Descripción del proyecto**  
 El proyecto consiste en la realización de múltiples consultas SQL sobre una base de datos relacional(Sakila), con el objetivo de extraer, filtrar y analizar información de distintas tablas relacionadas entre sí.
 
 Las consultas abarcan desde selecciones básicas hasta operaciones más avanzadas como agregaciones, uniones entre tablas y subconsultas.
 
-🛠️ **Conceptos trabajados**  
+# 🛠️ **Conceptos trabajados**  
 Durante el desarrollo de esta evaluación se han aplicado los siguientes conceptos de SQL:
 
 🔹 **Gestión de repositorios**
