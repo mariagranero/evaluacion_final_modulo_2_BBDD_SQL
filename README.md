@@ -26,30 +26,30 @@ Durante el desarrollo de esta evaluación se han aplicado los siguientes concept
     - Búsqueda de patrones con `LIKE`
 
 🔹 **Funciones agregadas**
-  - `COUNT`
-  - `SUM`
-  - `AVG`
-  - `MIN`
-  - `MAX`
+      - `COUNT`
+      - `SUM`
+      - `AVG`
+      - `MIN`
+      - `MAX`
 
 🔹 **Agrupación de datos**
-    - Uso de `GROUP BY`
-    - Filtrado de resultados agrupados con `HAVING`
+        - Uso de `GROUP BY`
+        - Filtrado de resultados agrupados con `HAVING`
 
 🔹 **Uniones entre tablas (JOINs)**
-    - `INNER JOIN`
-    - `LEFT JOIN`
-    - `RIGHT JOIN`
-    - `FULL JOIN`
+        - `INNER JOIN`
+        - `LEFT JOIN`
+        - `RIGHT JOIN`
+        - `FULL JOIN`
 
 🔹 **Subconsultas**
-    - Subconsultas en cláusulas `WHERE`
-    - Uso de subconsultas para excluir o filtrar resultados
-    - Subconsultas combinadas con funciones de fecha y agregación
+        - Subconsultas en cláusulas `WHERE`
+        - Uso de subconsultas para excluir o filtrar resultados
+        - Subconsultas combinadas con funciones de fecha y agregación
 
 🔹 **Análisis de relaciones**
-    - Relación entre `film` (películas), `actor` (actores), `customer` (clientes), `rental` (alquileres), `category` (categorías) de la base de datos SAKILA.
-    - Consultas sobre tablas intermedias (tablas puente)
+        - Relación entre `film` (películas), `actor` (actores), `customer` (clientes), `rental` (alquileres), `category` (categorías) de la base de datos SAKILA.
+        - Consultas sobre tablas intermedias (tablas puente)
 
 ##  🎯 **Objetivo**  
 Demostrar la comprensión y correcta aplicación de los fundamentos de SQL mediante un conjunto de consultas estructuradas, optimizadas y correctamente documentadas.
