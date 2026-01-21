@@ -7,7 +7,7 @@ El proyecto consiste en la realización de múltiples consultas SQL sobre una ba
 
 Las consultas abarcan desde selecciones básicas hasta operaciones más avanzadas como agregaciones, uniones entre tablas y subconsultas.
 
-# 🛠️ **Conceptos trabajados**  
+##  🛠️ **Conceptos trabajados**  
 Durante el desarrollo de esta evaluación se han aplicado los siguientes conceptos de SQL:
 
 🔹 **Gestión de repositorios**
@@ -51,10 +51,10 @@ Durante el desarrollo de esta evaluación se han aplicado los siguientes concept
 - Relación entre `film` (películas), `actor` (actores), `customer` (clientes), `rental` (alquileres), `category` (categorías) de la base de datos SAKILA.
 - Consultas sobre tablas intermedias (tablas puente)
 
-🎯 **Objetivo**  
+##  🎯 **Objetivo**  
 Demostrar la comprensión y correcta aplicación de los fundamentos de SQL mediante un conjunto de consultas estructuradas, optimizadas y correctamente documentadas.
 
-📌 **Resultados esperados**
+##  📌 **Resultados esperados**
 - Consultas claras y funcionales
 - Uso correcto de joins y subconsultas
 - Buen manejo de agregaciones y filtros
