@@ -12,8 +12,8 @@ Las consultas abarcan desde selecciones básicas hasta operaciones más avanzada
 Durante el desarrollo de esta evaluación se han aplicado los siguientes conceptos de SQL:
 
 🔹 **Gestión de repositorios**
-    - Creación y clonación de un repositorio en GitHub
-    - Organización del proyecto y documentación en formato Markdown
+- Creación y clonación de un repositorio en GitHub
+- Organización del proyecto y documentación en formato Markdown
 
 🔹 **Consultas básicas**
 - Uso de `SELECT`
