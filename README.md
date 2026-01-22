@@ -8,12 +8,13 @@ El proyecto consiste en la realización de múltiples consultas SQL sobre una ba
 Las consultas abarcan desde selecciones básicas hasta operaciones más avanzadas como agregaciones, uniones entre tablas y subconsultas.
 
 ##  🛠️ **Conceptos trabajados**  
-🛠️ **Conceptos trabajados**  
+
 Durante el desarrollo de esta evaluación se han aplicado los siguientes conceptos de SQL:
 
 🔹 **Gestión de repositorios**
 - Creación y clonación de un repositorio en GitHub
 - Organización del proyecto y documentación en formato Markdown
+- Creación de Script en MySQL Workbench
 
 🔹 **Consultas básicas**
 - Uso de `SELECT`
@@ -24,6 +25,7 @@ Durante el desarrollo de esta evaluación se han aplicado los siguientes concept
 - Operadores de comparación (`=`, `<>`, `<`, `>`, `<=`, `>=`)
 - Operadores lógicos (`AND`, `OR`, `NOT`)
 - Filtros por rangos (`BETWEEN`)
+- Filtros(`IN`, ` NOT IN`)
 - Búsqueda de patrones con `LIKE`
 
 🔹 **Funciones agregadas**
