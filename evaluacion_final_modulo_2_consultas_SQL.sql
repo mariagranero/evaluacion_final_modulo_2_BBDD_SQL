@@ -212,10 +212,10 @@ FROM film_actor;
 
 
 SELECT a.first_name nombre_actor, a.last_name apellido_actor
-FROM actor a -- tabla principal quiero todos los actores, todos los registros incluso los NULL.
-LEFT JOIN film_actor fa -- comparo el LEFT con film_actor
+FROM actor a -- tabla principal quiero todos los actores, todos los registros, por eso hago un left.
+LEFT JOIN film_actor fa -- comparo el LEFT con film_actor.
 ON a.actor_id = fa.actor_id
-WHERE fa.film_id IS NULL; -- Buscamos los que quedaron NULOS en la unión
+WHERE fa.film_id IS NULL; -- Buscamos los que quedaron NULOS en la unión exclusivamente, para saber aquellos que no aparecen en ninguna película.
 
 -- Aparece vacío, por lo que no hay ningún actor o actriz que no aparezca en al menos una película. Todos los registros de la tabla actor tienen una correspondencia en film_actor.
 
